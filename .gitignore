@@ -1,0 +1,8 @@
+.qodo
+*.env
+*.log
+*.sqlite3
+*.db
+*.db-journal
+*.DS_Store
+*.swp       
